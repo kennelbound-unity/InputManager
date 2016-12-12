@@ -1,0 +1,4 @@
+{
+  "name": "InputManager",
+  "export": "Assets/InputManager/Source"
+}
